@@ -1,4 +1,5 @@
 # DIY Lab Bench Power Supply 
+As you know using this circuit we can adjustable the voltage but we can also adjust the current at 10 amperes.
 
 So hey guys in today's article we are going to make a DIY lab bench power supply circuit. As you know using this circuit we can adjustable the voltage but we can also adjust the current at 10 amperes. And if you are reading this article then I bet you. You are an ["Electronics Hobbyist"](https://www.youtube.com/c/DiyElectronic/featured) Who may be thinking of buying a new lab bench power supply. Or maybe you are thinking of making a circuit of your own. That's why you came here to read this article. 
 So I am happy to tell you that in this article we will know. How Can We Build our Own Lab Bench Power Supply Circuit?
